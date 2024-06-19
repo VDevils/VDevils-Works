@@ -1,0 +1,17 @@
+E:\Bitbucket\speedyair-inventory\SpeedyAir\bin\Debug\net8.0\SpeedyAir.exe
+E:\Bitbucket\speedyair-inventory\SpeedyAir\bin\Debug\net8.0\SpeedyAir.deps.json
+E:\Bitbucket\speedyair-inventory\SpeedyAir\bin\Debug\net8.0\SpeedyAir.runtimeconfig.json
+E:\Bitbucket\speedyair-inventory\SpeedyAir\bin\Debug\net8.0\SpeedyAir.dll
+E:\Bitbucket\speedyair-inventory\SpeedyAir\bin\Debug\net8.0\SpeedyAir.pdb
+E:\Bitbucket\speedyair-inventory\SpeedyAir\bin\Debug\net8.0\Newtonsoft.Json.dll
+E:\Bitbucket\speedyair-inventory\SpeedyAir\obj\Debug\net8.0\SpeedyAir.csproj.AssemblyReference.cache
+E:\Bitbucket\speedyair-inventory\SpeedyAir\obj\Debug\net8.0\SpeedyAir.GeneratedMSBuildEditorConfig.editorconfig
+E:\Bitbucket\speedyair-inventory\SpeedyAir\obj\Debug\net8.0\SpeedyAir.AssemblyInfoInputs.cache
+E:\Bitbucket\speedyair-inventory\SpeedyAir\obj\Debug\net8.0\SpeedyAir.AssemblyInfo.cs
+E:\Bitbucket\speedyair-inventory\SpeedyAir\obj\Debug\net8.0\SpeedyAir.csproj.CoreCompileInputs.cache
+E:\Bitbucket\speedyair-inventory\SpeedyAir\obj\Debug\net8.0\SpeedyAir.csproj.Up2Date
+E:\Bitbucket\speedyair-inventory\SpeedyAir\obj\Debug\net8.0\SpeedyAir.dll
+E:\Bitbucket\speedyair-inventory\SpeedyAir\obj\Debug\net8.0\refint\SpeedyAir.dll
+E:\Bitbucket\speedyair-inventory\SpeedyAir\obj\Debug\net8.0\SpeedyAir.pdb
+E:\Bitbucket\speedyair-inventory\SpeedyAir\obj\Debug\net8.0\SpeedyAir.genruntimeconfig.cache
+E:\Bitbucket\speedyair-inventory\SpeedyAir\obj\Debug\net8.0\ref\SpeedyAir.dll

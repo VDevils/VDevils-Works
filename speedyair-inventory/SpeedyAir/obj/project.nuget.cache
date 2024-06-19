@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "XlWa0Y8uYFDYgTTtnJWgCWyOYLlZDbbn8eGmfklcAOPYnk2PLKTqOxMOnSm/a6blxOW9QxlXvu4WXNZCpGzCtw==",
+  "success": true,
+  "projectFilePath": "E:\\Bitbucket\\speedyair-inventory\\SpeedyAir\\SpeedyAir.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Vatsal Devre\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
